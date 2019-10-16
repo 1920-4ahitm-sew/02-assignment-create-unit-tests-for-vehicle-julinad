@@ -1,0 +1,97 @@
+POST http://localhost:8080/vehicle/api/vehicle
+content-type: application/json
+{:
+"brand": "Opel 43",
+"type": "commodore"
+}:
+
+###
+
+GET http://localhost:8080/vehicle/api/vehicle
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-11T022834.200.json
+
+###
+
+POST http://localhost:8080/vehicle/api/vehicle
+content-type: application/json
+{:
+"brand": "Opel 43",
+  "type": "commodore"
+}:
+
+###
+
+POST http://localhost:8080/vehicle/api/vehicle
+content-type: application/json
+
+{
+"brand": "Opel 43",
+  "type": "commodore"
+}
+
+###
+
+POST http://localhost:8080/vehicle/api/vehicle
+content-type: application/json
+
+###
+
+POST http://localhost:8080/vehicle/api/vehicle
+content-type: application/json
+
+###
+
+GET http://localhost:8080/vehicle/api/vehicle
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-11T021925.200.json
+
+###
+
+POST http://localhost:8080/vehicle/api/vehicle
+content-type: application/json
+
+###
+
+GET http://localhost:8080/vehicle/api/vehicle
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-11T021829.200.json
+
+###
+
+GET http://localhost:8080/vehicle/api/vehicle
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-11T021542.200.json
+
+###
+
+GET http://localhost:8080/vehicle/api/vehicle
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-11T021332.200.json
+
+###
+
+GET http://localhost:8080/vehicle/api/vehicle/42
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/vehicle/api/vehicle
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-10-11T021234.200.json
+
+###
+
