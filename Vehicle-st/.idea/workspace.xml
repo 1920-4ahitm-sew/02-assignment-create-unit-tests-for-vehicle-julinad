@@ -6,7 +6,18 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131ca03c-161a-4921-918c-6e86e42916c7" name="Default Changelist" comment="" />
+    <list default="true" id="131ca03c-161a-4921-918c-6e86e42916c7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicle/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicle/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicle/src/main/java/at/htl/vehicle/model/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicle/src/main/java/at/htl/vehicle/model/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicle/src/main/java/at/htl/vehicle/rest/VehicleEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicle/src/main/java/at/htl/vehicle/rest/VehicleEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicle/target/classes/at/htl/vehicle/model/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicle/target/classes/at/htl/vehicle/model/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicle/target/classes/at/htl/vehicle/rest/VehicleEndpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicle/target/classes/at/htl/vehicle/rest/VehicleEndpoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicle/target/vehicle/WEB-INF/classes/at/htl/vehicle/model/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicle/target/vehicle/WEB-INF/classes/at/htl/vehicle/model/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicle/target/vehicle/WEB-INF/classes/at/htl/vehicle/rest/VehicleEndpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicle/target/vehicle/WEB-INF/classes/at/htl/vehicle/rest/VehicleEndpoint.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +31,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,10 +42,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1SH9uYgKZ3xdqFvkK9nOl6bvxyh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -157,10 +174,25 @@
       <option name="presentableId" value="Default" />
       <updated>1571209876847</updated>
       <workItem from="1571209878234" duration="1289000" />
+      <workItem from="1571211456091" duration="592000" />
+      <workItem from="1571303447483" duration="1351000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
