@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Path("vehicle")
-@Produces({MediaType.APPLICATION_JSON, MediaType.TEXT_PLAIN, MediaType.APPLICATION_XML})
+//@Produces({MediaType.APPLICATION_JSON, MediaType.TEXT_PLAIN, MediaType.APPLICATION_XML})
 public class VehicleEndpoint {
     //@GET
     @Path("{id}") //Path param
@@ -29,7 +29,7 @@ public class VehicleEndpoint {
     }
 
     @POST
-    @Consumes(MediaType.APPLICATION_JSON)
+    //@Consumes(MediaType.APPLICATION_JSON)
     public void save(Vehicle vehicle){
         System.out.println("Vehicle =" + vehicle);
     }

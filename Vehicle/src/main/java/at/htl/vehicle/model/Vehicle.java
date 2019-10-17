@@ -6,6 +6,8 @@ import javax.xml.bind.annotation.XmlRootElement;
 public class Vehicle {
     private String brand;
     private String type;
+    private long id;
+
 
     //region Constructors
     public Vehicle() {

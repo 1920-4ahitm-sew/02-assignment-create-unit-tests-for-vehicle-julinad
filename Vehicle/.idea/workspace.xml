@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Vehicle:war exploded" />
+      <artifact name="vehicle:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4687049b-afed-488c-beb2-38f7a993fa10" name="Default Changelist" comment="" />
+    <list default="true" id="4687049b-afed-488c-beb2-38f7a993fa10" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Vehicle-st/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicle-st/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vehicle-st/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Vehicle-st/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/vehicle/model/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htl/vehicle/model/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/vehicle/rest/VehicleEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htl/vehicle/rest/VehicleEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/at/htl/vehicle/model/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/at/htl/vehicle/model/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/at/htl/vehicle/rest/VehicleEndpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/at/htl/vehicle/rest/VehicleEndpoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/vehicle/WEB-INF/classes/at/htl/vehicle/model/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/vehicle/WEB-INF/classes/at/htl/vehicle/model/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/vehicle/WEB-INF/classes/at/htl/vehicle/rest/VehicleEndpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/vehicle/WEB-INF/classes/at/htl/vehicle/rest/VehicleEndpoint.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,10 +43,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1S3YAsO3x1DKs3SSSZrBbhPkpfw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Vehicle-st" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
@@ -166,7 +183,7 @@
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/vehicle/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Vehicle:war exploded">
+        <artifact name="vehicle:war exploded">
           <settings />
         </artifact>
       </deployment>
@@ -180,7 +197,7 @@
       </server-settings>
       <predefined_log_file enabled="true" id="JBoss" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="49156" />
+        <option name="DEBUG_PORT" value="56195" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -230,7 +247,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Vehicle:war exploded" />
+          <artifact name="vehicle:war exploded" />
         </option>
       </method>
     </configuration>
@@ -261,10 +278,25 @@
       <workItem from="1570793610750" duration="4798000" />
       <workItem from="1570900706053" duration="10000" />
       <workItem from="1571207053121" duration="2953000" />
+      <workItem from="1571211444425" duration="606000" />
+      <workItem from="1571303374005" duration="2956000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
